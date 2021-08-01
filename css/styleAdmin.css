@@ -1,0 +1,18 @@
+.proizvodA{
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+}
+.proizvodA h2{
+	color: #A03021;
+}
+.proizvodA th{
+	font-size: 1.5rem;
+}
+.proizvodA td{
+	padding: 10px;
+	background-color: lightgray;
+}
+.drzac{
+	margin: 0 auto;
+}

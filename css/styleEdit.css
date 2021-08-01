@@ -1,0 +1,37 @@
+#editDrzac{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#editDrzac h2{
+	font-size: 2.5rem;
+	color: #A03021;
+}
+#editDrzac lable{
+	margin: 10px 0;
+}
+#editDrzac input{
+	width: 250px;
+    height: 30px;
+    border: none;
+    border-top: 3px solid lightgrey;
+    border-bottom: 3px solid lightgrey;
+    margin: 10px 0;
+}
+#editDrzac textarea{
+	width: 300px;
+    height: 200px;
+    margin-top: 10px;
+    border: 3px solid lightgrey;
+    resize: none;
+}
+#editDrzac select{
+	margin: 20px 0;
+	width: 100px;
+    height: 50px;
+}
+#editDrzac button{
+	width: 100px;
+	height: 30px;
+	align-items: center;
+}
